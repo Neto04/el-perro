@@ -1,0 +1,15 @@
+VIVOS = 2
+holi
+solve 0, 0
+solve 1, 0
+solve 1, 1
+solve 0, 1
+solve 1, 1
+VIVOS = 1
+holi
+solve 0, 0
+solve 1, 0
+solve 1, 1
+solve 0, 1
+solve 1, 1
+2
